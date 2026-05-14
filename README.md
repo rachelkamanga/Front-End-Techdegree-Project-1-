@@ -1,14 +1,10 @@
 # My Personal Profile Page
 
-In this project, I was given a personal profile webpage to practice basic HTML and CSS skills. I had to customize the page with my own photos and information. I also had to use CSS to change colors, add animations, and improve the look of the page. The CSS properties used for styling the profile photo were transform and transition. 
-
-I further added two pages; experience.html and hobbies.html. 
-
-Browsers tested for compatibility:
-
- 1. Chrome
- 2. Firefox
- 3. Edge
+* Developed and customized a responsive personal profile website using HTML5 and CSS3.
+* Applied advanced CSS styling techniques including transform and transition effects to enhance user experience and visual appeal
+* Extended the project by designing and integrating additional pages (Experience and Hobbies) to improve site structure and content organization
+* Ensured cross-browser compatibility by testing across Chrome, Firefox, and Microsoft Edge
+* Improved layout consistency and user navigation through structured page design and styling enhancements
 
 Grade: Meets Expectation
  
